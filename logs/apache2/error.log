@@ -1,0 +1,501 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue May 14 14:08:59.747609 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.56 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Tue May 14 14:08:59.747688 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue May 14 14:12:37.495149 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue May 14 14:14:19.063697 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.56 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Tue May 14 14:14:19.063790 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue May 14 14:15:58.000648 2024] [autoindex:error] [pid 17] [client 172.19.0.1:53450] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue May 14 14:15:58.097404 2024] [php:error] [pid 17] [client 172.19.0.1:53450] script '/var/www/html/index.php' not found or unable to stat, referer: http://localhost:8887/
+[Tue May 14 14:33:25.170873 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue May 14 14:33:26.935887 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.56 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Tue May 14 14:33:26.936110 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue May 14 15:11:46.844387 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue May 14 15:12:32.395665 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.56 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Tue May 14 15:12:32.395748 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue May 14 15:30:50.217447 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.56 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Tue May 14 15:30:50.217527 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue May 14 15:32:29.053424 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue May 14 15:32:30.656388 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.56 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Tue May 14 15:32:30.656487 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue May 14 15:32:50.715197 2024] [php:error] [pid 17] [client 39.48.191.12:45386] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/admin
+[Tue May 14 16:10:24.496126 2024] [autoindex:error] [pid 27] [client 167.94.138.126:48378] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue May 14 16:10:27.975542 2024] [autoindex:error] [pid 26] [client 167.94.138.126:59786] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue May 14 16:36:00.485814 2024] [autoindex:error] [pid 22] [client 45.79.128.205:3330] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue May 14 16:56:03.229471 2024] [autoindex:error] [pid 19] [client 178.128.48.119:44618] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue May 14 21:39:45.246290 2024] [autoindex:error] [pid 18] [client 198.235.24.116:60084] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue May 14 22:05:03.828695 2024] [autoindex:error] [pid 26] [client 71.6.134.233:39620] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue May 14 22:05:27.245490 2024] [php:error] [pid 29] [client 71.6.134.233:57058] script '/var/www/html/index.php' not found or unable to stat
+[Tue May 14 22:58:58.018502 2024] [autoindex:error] [pid 19] [client 167.94.146.51:41842] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue May 14 22:59:01.740160 2024] [autoindex:error] [pid 20] [client 167.94.146.51:40304] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed May 15 00:02:34.190488 2024] [autoindex:error] [pid 27] [client 184.105.139.108:45373] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed May 15 00:03:30.638297 2024] [autoindex:error] [pid 26] [client 184.105.139.84:8153] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed May 15 01:27:04.420739 2024] [autoindex:error] [pid 19] [client 146.70.199.147:35594] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed May 15 03:01:27.631523 2024] [autoindex:error] [pid 28] [client 152.32.139.190:44974] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed May 15 03:01:32.840685 2024] [php:error] [pid 19] [client 152.32.139.190:48194] script '/var/www/html/index.php' not found or unable to stat
+[Wed May 15 03:01:33.043231 2024] [php:error] [pid 20] [client 152.32.139.190:48200] script '/var/www/html/index.php' not found or unable to stat
+[Wed May 15 03:01:33.289548 2024] [php:error] [pid 21] [client 152.32.139.190:48208] script '/var/www/html/index.php' not found or unable to stat
+[Wed May 15 03:59:05.401796 2024] [php:error] [pid 41] [client 203.130.9.82:61906] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/front_desk/admission_enquiry_n_registration/admission_registration/edit/9370
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 04:22:09.676942 2024] [php:error] [pid 37] [client 119.155.52.122:13583] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/front_desk/admission_enquiry_n_registration/admission_registration/edit/9372
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 04:28:52.724279 2024] [php:error] [pid 27] [client 39.35.202.58:2201] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/duplicate_fee_voucher/pdf/156737
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 04:47:51.098984 2024] [php:error] [pid 37] [client 39.48.140.160:54324] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/duplicate_fee_voucher/pdf/156747
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 04:50:32.281367 2024] [php:error] [pid 18] [client 39.48.140.160:49779] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/duplicate_fee_voucher/pdf/156748
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 06:17:04.270165 2024] [php:error] [pid 791] [client 115.167.50.70:42914] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/154796
+[Wed May 15 06:17:21.391369 2024] [php:error] [pid 1218] [client 115.167.50.70:44418] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/154796
+[Wed May 15 06:23:28.880724 2024] [php:error] [pid 792] [client 115.167.50.70:48512] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/154796
+[Wed May 15 06:25:51.151608 2024] [php:error] [pid 38] [client 115.167.50.70:38310] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/154796
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 06:26:57.488926 2024] [php:error] [pid 37] [client 115.167.50.70:51910] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/154796
+[Wed May 15 06:29:03.514099 2024] [php:error] [pid 32] [client 115.167.50.70:51088] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/154796
+[Wed May 15 06:29:38.095869 2024] [php:error] [pid 1218] [client 115.167.50.70:51080] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/154796
+[Wed May 15 06:30:37.916098 2024] [php:error] [pid 1219] [client 115.167.50.70:56428] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/154796
+[Wed May 15 06:30:51.243195 2024] [php:error] [pid 32] [client 115.167.50.70:42266] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/154796
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 06:36:57.182225 2024] [php:error] [pid 37] [client 115.167.50.70:38488] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/154796
+[Wed May 15 06:43:26.723135 2024] [php:error] [pid 37] [client 115.167.50.70:33058] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/155187
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 06:48:40.546842 2024] [php:error] [pid 1355] [client 115.167.50.70:38550] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/155187
+[Wed May 15 06:51:25.313538 2024] [php:error] [pid 1218] [client 115.167.50.70:51826] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/155187
+[Wed May 15 06:52:51.815326 2024] [php:error] [pid 1219] [client 115.167.50.70:42430] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/155187
+[Wed May 15 06:53:57.646316 2024] [php:error] [pid 753] [client 115.167.50.70:39246] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/154796
+[Wed May 15 06:57:58.769019 2024] [php:error] [pid 1218] [client 115.167.50.70:36454] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/155187
+[Wed May 15 06:58:09.578082 2024] [php:error] [pid 753] [client 115.167.50.70:32996] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/payment_receipt_list/pdf/155187
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 07:01:24.203088 2024] [php:error] [pid 1409] [client 203.130.9.82:50073] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp//fee_management/fee_voucher/payment_receipt_list/pdf/156711
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 07:57:32.733310 2024] [php:error] [pid 1470] [client 72.255.9.74:64682] script '/var/www/html/index.php' not found or unable to stat, referer: http://149.28.137.234:8888/erp/fee_management/fee_voucher/duplicate_fee_voucher/pdf/155657
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 28%[==================>                                         ] 31%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 28%[==================>                                         ] 31%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 08:05:23.212566 2024] [autoindex:error] [pid 2265] [client 198.235.24.246:49765] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 28%[==================>                                         ] 31%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 28%[==================>                                         ] 31%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 08:38:13.352242 2024] [autoindex:error] [pid 32] [client 152.32.198.210:60860] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed May 15 08:38:18.995073 2024] [php:error] [pid 2189] [client 152.32.198.210:51916] script '/var/www/html/index.php' not found or unable to stat
+[Wed May 15 08:38:19.602771 2024] [php:error] [pid 1625] [client 152.32.198.210:51920] script '/var/www/html/index.php' not found or unable to stat
+[Wed May 15 08:38:20.306084 2024] [php:error] [pid 1458] [client 152.32.198.210:51924] script '/var/www/html/index.php' not found or unable to stat
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+Loading pages (1/6)
+[>                                                           ] 0%[======>                                                     ] 10%[================>                                           ] 27%[==================>                                         ] 30%[============================================================] 100%Counting pages (2/6)                                               
+[============================================================] Object 1 of 1Resolving links (4/6)                                                       
+[============================================================] Object 1 of 1Loading headers and footers (5/6)                                           
+Printing pages (6/6)
+[>                                                           ] Preparing[============================================================] Page 1 of 1Done                                                                      
+[Wed May 15 11:25:25.821745 2024] [autoindex:error] [pid 2189] [client 162.243.138.55:51890] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 15 11:58:25.496522 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.56 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Wed May 15 11:58:25.496610 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 15 12:05:04.776768 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 15 12:05:07.131158 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.56 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Wed May 15 12:05:07.131227 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 15 12:06:14.614161 2024] [php:error] [pid 19] [client 172.27.0.1:32812] script '/var/www/html/index.php' not found or unable to stat, referer: http://localhost:8889/sims_in/front_desk/admission_enquiry_n_registration/admission_enquiry/add
+[Wed May 15 12:10:00.550115 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 15 12:10:02.565171 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.56 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Wed May 15 12:10:02.565258 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 15 12:12:03.147331 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed May 15 12:12:27.476458 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.56 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Wed May 15 12:12:27.476549 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
